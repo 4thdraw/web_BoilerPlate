@@ -1,0 +1,17 @@
+body{
+    font-family: 'Montserrat','ECL', sans-serif ;
+    font-size: 1rem;
+    line-height: 2;
+    color:#222;
+}
+*{ margin: 0; padding: 0;}
+
+a{ color:#222; text-decoration: none;}
+
+li, dl, dt, dd, ul, ol{
+    list-style: none;   
+}
+
+
+
+
